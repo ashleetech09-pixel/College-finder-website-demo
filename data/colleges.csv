@@ -1,0 +1,6 @@
+college_id,name,city,state,region,size,enrollment,url
+101,Georgia Institute of Technology,Atlanta,GA,Southeast,Large,18415,https://www.gatech.edu
+102,Harvey Mudd College,Claremont,CA,West,Small,920,https://www.hmc.edu
+103,University of Michigan,Ann Arbor,MI,Midwest,Large,32695,https://umich.edu
+104,Worcester Polytechnic Institute,Worcester,MA,Northeast,Medium,5400,https://www.wpi.edu
+105,University of Texas at Austin,Austin,TX,Southwest,Large,41309,https://www.utexas.edu
